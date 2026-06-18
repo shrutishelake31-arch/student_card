@@ -15,5 +15,3 @@ A simple and responsive **Student Profile Card** created using **HTML and CSS**.
 
 - HTML5
 - CSS3
-
-## 📂 Project Structure
